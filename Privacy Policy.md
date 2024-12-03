@@ -58,8 +58,7 @@ Changes communicated via:
 - Website
 
 ## Contact
-privacy@trustifycart.app
-[trustifycart.app/privacy](https://trustifycart.app/privacy)
+evilryu78@proton.me
 
 ## Compliance
 - GDPR
